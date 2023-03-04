@@ -1,0 +1,48 @@
+.socials {
+	display: flex;
+	place-content: center;
+	width: 100%;
+
+	&-link {
+		align-items: center;
+		border: 1px solid transparent;
+		border-radius: 3px;
+		color: var(--td-blue-light);
+		display: flex;
+		flex-wrap: nowrap;
+		padding: .2rem 1rem;
+		text-decoration: none;
+		transition: .2s border-color ease-in-out;
+
+		&:hover {
+			border-color: var(--td-blue-light)
+		}
+	}
+
+	&-link-img {
+		height: 2rem;
+
+		&--white {
+			filter: brightness(10)
+		}
+	}
+
+	.instagram {
+		display: flex;
+		flex-direction: column;
+
+		.label {
+			color: white;
+			font-size: .8rem;
+			margin: 0;
+			padding: 0 0 0 .5rem;
+			text-decoration: none;
+		}
+	}
+
+	.other {
+		display: flex;
+		flex-direction: column;
+		justify-content: space-evenly;
+	}
+}
