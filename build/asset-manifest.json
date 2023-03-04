@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.30ac432b.css",
+    "main.js": "/static/js/main.eed41118.js",
+    "static/js/787.d04f28eb.chunk.js": "/static/js/787.d04f28eb.chunk.js",
+    "static/media/EUROPE-United_Kingdom-Berkshire-1863-2021-UR.png": "/static/media/EUROPE-United_Kingdom-Berkshire-1863-2021-UR.1d207fc3aa3903e1c998.png",
+    "static/media/td-2023-outline-noBG.svg": "/static/media/td-2023-outline-noBG.a0220f45d30f9d56c42ce195f377cd5d.svg",
+    "static/media/Instagram_Glyph_White.svg": "/static/media/Instagram_Glyph_White.018ab7f813e35887d0baf29d349d615d.svg",
+    "static/media/github-mark-white.svg": "/static/media/github-mark-white.97ed8e7eef60d61ca469881dd6f34511.svg",
+    "index.html": "/index.html",
+    "main.30ac432b.css.map": "/static/css/main.30ac432b.css.map",
+    "main.eed41118.js.map": "/static/js/main.eed41118.js.map",
+    "787.d04f28eb.chunk.js.map": "/static/js/787.d04f28eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30ac432b.css",
+    "static/js/main.eed41118.js"
+  ]
+}
