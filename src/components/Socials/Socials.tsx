@@ -16,7 +16,7 @@ function Socials() {
           rel="noopener noreferrer"
         >
           <img src={instagramLogoWhite} className="socials-link-img" alt="Instagram Personal" />
-          <p className="label">Personal(Private)</p>
+          <p className="label">tom_dixon</p>
         </a>
         <a
           className="socials-link"
@@ -25,7 +25,7 @@ function Socials() {
           rel="noopener noreferrer"
         >
           <img src={instagramLogoWhite} className="socials-link-img" alt="Instagram Photography" />
-          <p className="label">Photography</p>
+          <p className="label">i_spied_this</p>
         </a>
         <a
           className="socials-link"
@@ -34,7 +34,7 @@ function Socials() {
           rel="noopener noreferrer"
         >
           <img src={instagramLogoWhite} className="socials-link-img" alt="Instagram Allotment" />
-          <p className="label">Allotment</p>
+          <p className="label">berkshire_allotment</p>
         </a>
 
       </div>

@@ -2,8 +2,9 @@
   background-color: var(--td-blue-dark);
 	display: flex;
 	flex-direction: column;
-  text-align: center;
-  min-height: 100vh;
+	text-align: center;
+	min-height: 100vh;
+	line-height: 1.5;
 }
 
 .App-logo {
@@ -13,13 +14,13 @@
 }
 
 h1 {
-	font-weight: 100;
+	font-weight: 200;
 }
 
 .occupation {
-	font-weight: 100;
+	font-weight: 200;
 	margin: 0;
-	padding: 0 0 3rem;
+	padding: 0 0 2rem;
 }
 
 .App-header {
@@ -30,6 +31,11 @@ h1 {
   font-size: calc(10px + 2vmin);
   justify-content: center;
   padding-top: 1rem;
+
+  .title {
+	margin: 0;
+	padding: 0 0 1rem;
+  }
 }
 
 .App-footer {
