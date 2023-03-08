@@ -55,7 +55,6 @@ function Socials() {
         >
           <img src={linkedInLogo} className="socials-link-img socials-link-img--white" alt="LinkedIn" />
         </a>
-
       </div>
     </div>
   );
