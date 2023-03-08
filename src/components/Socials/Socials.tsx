@@ -7,7 +7,7 @@ import './socials.scss';
 
 function Socials() {
   return (
-    <div className="socials">
+    <section className="socials">
       <div className="instagram">
         <a
           className="socials-link socials-link--instagram"
@@ -56,7 +56,7 @@ function Socials() {
           <img src={linkedInLogo} className="socials-link-img socials-link-img--white" alt="LinkedIn" />
         </a>
       </div>
-    </div>
+    </section>
   );
 }
 
