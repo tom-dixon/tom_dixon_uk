@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/tom_dixon_uk/static/css/main.896b6fef.css",
+    "main.css": "/tom_dixon_uk/static/css/main.e6942526.css",
     "main.js": "/tom_dixon_uk/static/js/main.9b596d9e.js",
     "static/js/787.d04f28eb.chunk.js": "/tom_dixon_uk/static/js/787.d04f28eb.chunk.js",
     "static/media/EUROPE-United_Kingdom-Berkshire-1863-2021-UR.png": "/tom_dixon_uk/static/media/EUROPE-United_Kingdom-Berkshire-1863-2021-UR.1d207fc3aa3903e1c998.png",
@@ -8,12 +8,12 @@
     "static/media/Instagram_Glyph_White.svg": "/tom_dixon_uk/static/media/Instagram_Glyph_White.018ab7f813e35887d0baf29d349d615d.svg",
     "static/media/github-mark-white.svg": "/tom_dixon_uk/static/media/github-mark-white.97ed8e7eef60d61ca469881dd6f34511.svg",
     "index.html": "/tom_dixon_uk/index.html",
-    "main.896b6fef.css.map": "/tom_dixon_uk/static/css/main.896b6fef.css.map",
+    "main.e6942526.css.map": "/tom_dixon_uk/static/css/main.e6942526.css.map",
     "main.9b596d9e.js.map": "/tom_dixon_uk/static/js/main.9b596d9e.js.map",
     "787.d04f28eb.chunk.js.map": "/tom_dixon_uk/static/js/787.d04f28eb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.896b6fef.css",
+    "static/css/main.e6942526.css",
     "static/js/main.9b596d9e.js"
   ]
 }
