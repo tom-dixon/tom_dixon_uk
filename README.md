@@ -71,3 +71,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 Github user domain = tom-dixon.github.io
+
+to deploy to github pages: `npm run deploy`
